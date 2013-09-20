@@ -15,3 +15,4 @@ TODO:
 -----
 Enumerate "adb devices" to make sure there is a device connected.
 Allow user to choose device if more than one is connected.
+Add command-line code to work on Mac toos
